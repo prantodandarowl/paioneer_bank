@@ -1,0 +1,56 @@
+body{
+    padding: 200px;
+}
+.gap-input{
+
+    padding-bottom: 20px;
+}
+
+.login{
+    margin-top:50px;
+    padding: 70px;
+    border-radius: 30px;
+    box-shadow:5px 5px 10px gray;
+
+}
+
+#transation-area{
+    display: none;
+}
+
+
+.row{
+    margin-top: 30px;
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding-bottom: 70px;
+    
+
+}
+
+
+
+.col-md-4{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    background: var(--i);
+    text-align: center;
+    padding: 40px 0px;
+    color: honeydew;
+}
+
+
+
+
+.col-md-6{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 15px;
+    background: #fff;
+    text-align: center;
+    padding: 10px 0px;
+    padding: 50px 0px;
+  
+}
